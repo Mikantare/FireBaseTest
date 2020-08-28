@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">FireBaseTest</string>
+    <string name="lable_name">Имя:</string>
+    <string name="lable_last_name">Фамилия:</string>
+    <string name="lable_age">Возраст:</string>
+    <string name="lable_man">Пол:</string>
+    <string name="button_save_user">Сохранить</string>
+    <string name="edit_man">введите пол</string>
+    <string name="edit_age">введите возвраст</string>
+    <string name="edit_last_name">введите фамилию</string>
+    <string name="edit_name">введите имя</string>
 </resources>
